@@ -65,7 +65,7 @@ const PostPageNavbar = forwardRef<HTMLElement, Props>((props, ref) => {
                 >
                     <ToggleTheme/>
                     <HeaderBlogSearch publication={publication}/>
-                    <Button as="a" href="#" type="primary" label="Sign up"/>
+                    <Button as="a" href="/newsletter" type="primary" label="Subscribe"/>
                 </div>
             </div>
 

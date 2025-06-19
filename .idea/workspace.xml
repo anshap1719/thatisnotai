@@ -5,19 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/icons/svgs/Moon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/icons/svgs/Sun.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/toggle-theme.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/icons/svgs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/icons/svgs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/meta.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/meta.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/post-page-navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/post-page-navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-nav-links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-nav-links.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-sidebar-nav-links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-sidebar-nav-links.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-logo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +65,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/anshulsanghi/Developer/@anshulsanghi/thatisnotai/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors",
+    "last_opened_file_path": "/Users/anshulsanghi/Developer/@anshulsanghi/thatisnotai/packages/blog-starter-kit/themes/hashnode/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
@@ -80,6 +84,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public" />
+      <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/favicon" />
       <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors" />
       <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode" />
     </key>
@@ -96,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
-      <workItem from="1750337374255" duration="7133000" />
+      <workItem from="1750337374255" duration="7963000" />
     </task>
     <servers />
   </component>
