@@ -33,7 +33,8 @@ function PublicationNavLinks(props: Props) {
       }),
       enabledPages?.newsletter
         ? { label: 'newsletter', url: '/newsletter', isActive: currentActiveMenuItemId === 'newsletter' }
-        : null
+        : null,
+        {label: "about", url: '/about', isActive: currentActiveMenuItemId === 'about' },
     ].filter((item: any) => item),
   );
 
