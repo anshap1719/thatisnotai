@@ -103,7 +103,7 @@ const About = (props: Props) => {
 
                                         <p className="mt-4 text-center text-gray-500 dark:text-gray-400 group-hover:text-gray-200">
                                             A Product Designer from India with a deep passion for crafting digital
-                                            products that enhance people's lives. He focuses on making everyday
+                                            products that enhance people&apos;s lives. He focuses on making everyday
                                             interactions with technology smoother, more intuitive, and more enjoyable.
                                             His work reflects a perfect blend of creativity, problem-solving, and
                                             technical expertise, allowing him to seamlessly bridge the gap between
