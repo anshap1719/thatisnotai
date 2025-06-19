@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/cmc0lxtn6000q02ii1qde4l4o.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/post-view.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/post-view.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-footer.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
-      <workItem from="1750337374255" duration="199000" />
+      <workItem from="1750337374255" duration="729000" />
     </task>
     <servers />
   </component>
