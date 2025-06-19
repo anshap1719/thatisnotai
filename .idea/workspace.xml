@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors/anshul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors/nishank.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-nav-links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-nav-links.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/analytics.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/analytics.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/integrations.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/integrations.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/generated/graphql.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/generated/graphql.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/generated/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/generated/schema.graphql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +58,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/anshulsanghi/Developer/@anshulsanghi/thatisnotai/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.stylelint": "true",
@@ -67,6 +75,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/public/assets/blog/authors" />
+      <recent name="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode" />
+    </key>
+  </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
@@ -79,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
-      <workItem from="1750337374255" duration="2583000" />
+      <workItem from="1750337374255" duration="4459000" />
     </task>
     <servers />
   </component>
