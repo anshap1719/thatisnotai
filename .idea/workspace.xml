@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/publication-footer.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
-      <workItem from="1750337374255" duration="729000" />
+      <workItem from="1750337374255" duration="1398000" />
     </task>
     <servers />
   </component>
