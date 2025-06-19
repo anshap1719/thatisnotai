@@ -89,6 +89,7 @@ export function Integrations() {
     useEffect(() => {
         // @ts-ignore
         if (window.gtag) {
+            // @ts-ignore
             window.gtag('config', gaTrackingID, {
                 transport_url: 'https://ping.hashnode.com',
                 first_party_collection: true,

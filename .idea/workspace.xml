@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/pages/about.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/analytics.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/analytics.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/integrations.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/integrations.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
-      <workItem from="1750337374255" duration="4645000" />
+      <workItem from="1750337374255" duration="4778000" />
     </task>
     <servers />
   </component>

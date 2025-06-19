@@ -14,6 +14,7 @@ export const Analytics = () => {
     const _sendPageViewsToHashnodeGoogleAnalytics = () => {
         // @ts-ignore
         if (window.gtag) {
+            // @ts-ignore
             window.gtag('config', GA_TRACKING_ID, {
                 transport_url: 'https://ping.hashnode.com',
                 first_party_collection: true,
