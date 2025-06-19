@@ -35,7 +35,7 @@ const About = (props: Props) => {
                     className="blog-page-card container relative z-30 mx-auto grid grid-flow-row grid-cols-8 pb-0 2xl:grid-cols-10">
                     <div className="col-span-full">
                         <section className="bg-white dark:bg-gray-900">
-                            <div className="container px-6 py-10 mx-auto">
+                            <div className="container px-6 py-10 mx-auto w-full">
                                 <div className="text-center">
                                     <h2 className="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl">About
                                         the Authors</h2>
@@ -104,10 +104,10 @@ const About = (props: Props) => {
                         </div>
                     </>
                 )}
-                <div className="col-span-full max-w-3xl mx-auto">
-                    <section className="bg-white dark:bg-gray-900">
+                <div className="col-span-full">
+                    <section className="bg-white dark:bg-gray-900 w-full">
                         <div className="container px-6 py-10 ">
-                            <div className="text-center">
+                            <div className="text-center max-w-3xl mx-auto">
                                 <h4 className="text-2xl font-bold text-gray-800 dark:text-white">Content
                                     Transparency Declaration</h4>
                                 <p className="mt-4 text-gray-500 dark:text-gray-400">While most of the content ideas

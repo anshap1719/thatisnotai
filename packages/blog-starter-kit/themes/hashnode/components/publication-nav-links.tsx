@@ -27,14 +27,14 @@ function PublicationNavLinks(props: Props) {
     const navItemsRef = useRef(
         [
             {label: 'home', url: '/', isActive: !currentActiveMenuItemId && isHome},
-            ...navbarItems.map((item) => {
-                const isCustomMenuItemActive = currentActiveMenuItemId && item.id === currentActiveMenuItemId;
-                return {...item, isActive: isCustomMenuItemActive};
-            }),
             enabledPages?.newsletter
                 ? {label: 'newsletter', url: '/newsletter', isActive: currentActiveMenuItemId === 'newsletter'}
                 : null,
             {label: "about", url: '/about', isActive: currentActiveMenuItemId === 'about'},
+            ...navbarItems.map((item) => {
+                const isCustomMenuItemActive = currentActiveMenuItemId && item.id === currentActiveMenuItemId;
+                return {...item, isActive: isCustomMenuItemActive};
+            }),
         ].filter((item: any) => item),
     );
 
