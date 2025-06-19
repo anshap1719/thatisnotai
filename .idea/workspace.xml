@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d959dcd-157f-4388-8074-b453557fb7dd" name="Changes" comment="Add Buy Me A Coffee Widget">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/blog-starter-kit/themes/hashnode/components/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <updated>1737564370571</updated>
       <workItem from="1737564372294" duration="1334000" />
       <workItem from="1750337374255" duration="10290000" />
-      <workItem from="1750349101627" duration="12000" />
+      <workItem from="1750349101627" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="Fix Icons And Logos">
       <option name="closed" value="true" />
